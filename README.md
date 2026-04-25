@@ -1,47 +1,38 @@
-# Hi, I'm Shounak Hazra 👋
+# HI I'm Shounak Hazra
 
-Developer based in Kolkata, India. I build games, write code, and love
-solving problems — whether that's designing gameplay systems or working
-through a DSA problem.
-
-Currently pursuing BTech in Electrical Engineering at Techno Main Salt
-Lake (2027) and actively looking for opportunities in software development
-and game development.
+Developer and Game Designer based in Kolkata, India, with a focus on
+building gameplay systems, narrative design, and interactive experiences.
+Currently pursuing BTech in Electrical Engineering at Techno Main Salt Lake
+(graduating 2027).
 
 ---
 
-## What I work with
+## About
 
-**Languages:** C#, GDScript, Python
-**Game Dev:** Godot, Unity
-**Other:** Figma, UI/UX
-**Currently sharpening:** Data Structures & Algorithms
-
----
-
-## Projects
-
-**Ember** — Narrative-driven game built in Godot 4.5. Led the full
-creative and technical pipeline across a multi-member team.
-
-**Rain Without Thunder** — A platformer with atmospheric mechanics
-including rain damage, umbrella protection, and health regeneration.
-
-**RPGMON** — Lightweight turn-based RPG battle system with random
-encounters, animated combat, and modular architecture.
+I design and develop 2D and 3D games with an emphasis on tight mechanics,
+level design, and storytelling. Alongside game development, I work on
+general software projects and am actively building my foundation in Data
+Structures & Algorithms. UNICEF Game Jam Winner.
 
 ---
 
-## A bit more
+## What I'm Working On
 
-- 🏆 UNICEF Game Jam Winner
-- 📜 Game Design & Development certifications from Michigan State
-  University (Coursera)
-- 🤝 Previously interned at Eklavya.Me building browser-based
-  educational games
+- Educational browser-based games built in Godot 4.5
+- Narrative-driven game projects covering the full design and dev pipeline
+- DSA practice and Python development
 
 ---
 
-📬 shounakhazra05@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/shounakhazra/)
+## Tools & Technologies
+
+**Languages —** C# · GDScript · Python  
+**Engines & Tools —** Godot · Unity · Figma
+
+---
+
+## Get in Touch
+
+📬 shounakhazra05@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/shounakhazra/)  
 🌐 [Portfolio](https://shounak-hazraportfolio.my.canva.site/)

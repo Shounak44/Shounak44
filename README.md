@@ -15,4 +15,4 @@ Currently pursuing BTech in Electrical Engineering @ Techno Main Salt Lake (2027
 
 [shounakhazra05@gmail.com](mailto:shounakhazra05@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/shounakhazra/)
-[Portfolio](https://shounak-hazraportfolio.my.canva.site/)
+[Portfolio](https://shounak-hazra-portfolio.my.canva.site/)

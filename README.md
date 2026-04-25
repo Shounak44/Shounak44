@@ -5,7 +5,6 @@ building gameplay systems, narrative design, and interactive experiences.
 Currently pursuing BTech in Electrical Engineering at Techno Main Salt Lake
 (graduating 2027).
 
----
 
 ## About
 
@@ -14,7 +13,6 @@ level design, and storytelling. Alongside game development, I work on
 general software projects and am actively building my foundation in Data
 Structures & Algorithms. UNICEF Game Jam Winner.
 
----
 
 ## What I'm Working On
 
@@ -22,14 +20,12 @@ Structures & Algorithms. UNICEF Game Jam Winner.
 - Narrative-driven game projects covering the full design and dev pipeline
 - DSA practice and Python development
 
----
 
 ## Tools & Technologies
 
 **Languages —** C# · GDScript · Python  
 **Engines & Tools —** Godot · Unity · Figma
 
----
 
 ## Get in Touch
 

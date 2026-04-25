@@ -2,7 +2,7 @@
 
 Developer and Game Designer from Kolkata, India. I build 2D/3D games
 focused on gameplay systems, narrative design, and level design. Also
-working on general software development and DSA. UNICEF Game Jam Winner.
+working on general software development and DSA. And I'm a UNICEF Global Game Jam Winner.
 
 Currently pursuing BTech in Electrical Engineering @ Techno Main Salt Lake (2027).
 
